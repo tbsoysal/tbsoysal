@@ -26,4 +26,4 @@ React · Next.js · Node.js · JavaScript · CSS
 
 - Portfolio: [tahaberksoysal.com](https://tahaberksoysal.com)
 - LinkedIn: [linkedin.com/in/tahaberksoysal](https://linkedin.com/in/tahaberksoysal)
-- Email: your@email.com
+- Email: berksysl.g@gmail.com

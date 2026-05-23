@@ -1,11 +1,29 @@
-- 👋 Hi, I’m Tahaberk SOYSAL
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front-end Technologies
-- 💞️ I’m looking to collaborate side projects
-- 📫 How to reach me: berksysl.g@gmail.com / +90 552 213 00 04
-- 😄 Pronouns: He/Him
+# Hi, I'm Tahaberk 👋
 
-<!---
-tbsoysal/tbsoysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-end developer from Turkey who builds and ships real products.
+
+I'm not just interested in writing clean code — I care about what the product does, 
+who uses it, and whether it actually solves a problem.
+
+## What I'm working on
+
+- Building my portfolio at [tahaberksoysal.com](https://tahaberksoysal.com)
+- Looking for a remote front-end role at a product-focused team
+
+## A project I'm proud of
+
+**[sahadijital.com](https://sahadijital.com)** — A reservation and analytics platform 
+I built from scratch for soccer field owners in Turkey. Handled everything: product 
+design, development, and customer development. Talked to real owners, printed QR code 
+posters, tried to get traction. Didn't scale the way I hoped — but I learned more from 
+that than from any tutorial.
+
+## Stack I work with
+
+React · Next.js · Node.js · JavaScript · CSS
+
+## Let's talk
+
+- Portfolio: [tahaberksoysal.com](https://tahaberksoysal.com)
+- LinkedIn: [linkedin.com/in/tahaberksoysal](https://linkedin.com/in/tahaberksoysal)
+- Email: your@email.com
